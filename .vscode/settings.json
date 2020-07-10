@@ -1,0 +1,10 @@
+{
+    "editor.suggest.showClasses": false,
+    "editor.suggest.showFiles": false,
+    "breadcrumbs.filePath": "off",
+    "breadcrumbs.showClasses": false,
+    "outline.showClasses": false,
+    "git.fetchOnPull": true,
+    "git.enableSmartCommit": true,
+    "git.enableCommitSigning": true
+}
